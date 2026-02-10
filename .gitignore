@@ -1,0 +1,41 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+build/
+.gradle/
+
+# Local configuration
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio
+.navigation/
+captures/
+*.iml
+.idea/
+misc.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# Google Services
+# google-services.json
+
+# Mac
+.DS_Store
